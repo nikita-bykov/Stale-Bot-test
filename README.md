@@ -1,0 +1,2 @@
+# Stale-Bot-test
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7d0f0a14bb794df0b60fc2249906321d)](https://app.codacy.com/gh/J-Vin/Stale-Bot-test?utm_source=github.com&utm_medium=referral&utm_content=J-Vin/Stale-Bot-test&utm_campaign=Badge_Grade_Settings)
